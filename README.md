@@ -15,3 +15,5 @@ Para compilar, simplemente hay que acceder a la carpeta desde la consola y ejecu
 - `make` para ejecutar el Makefile y compilar el código.
 
 Ahora simplemente para abrirlo sólo hay que ejecutar `./myform` en la consola.
+
+-Miguel

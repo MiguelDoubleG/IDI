@@ -16,4 +16,8 @@ Para compilar, simplemente hay que acceder a la carpeta desde la consola y ejecu
 
 Ahora simplemente para abrirlo sólo hay que ejecutar `./myform` en la consola.
 
--Miguel
+
+
+
+
+-Miguel Gil

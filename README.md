@@ -1,6 +1,7 @@
 # IDI
 
-## QtDesigner <h2> Para poder usar la plantilla, es necesario guardar el archivo .ui del Designer como Form.ui, y cambiar el objectName del QWidget base a MyForm:
+## QtDesigner
+  Para poder usar la plantilla, es necesario guardar el archivo .ui del Designer como Form.ui, y cambiar el objectName del QWidget base a MyForm:
   
   
   

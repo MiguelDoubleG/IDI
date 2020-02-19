@@ -12,4 +12,5 @@
   
 ## Compilar
 Pues haz qmake-qt5 y make tonto
+Ahora simplemente para abrirlo sólo hay que ejecutar ./myform en la consola.
 

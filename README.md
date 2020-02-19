@@ -9,4 +9,7 @@
 
 ## OpenGl
   Para poder usar Qt con OpenGl, es necesario añadir al fichero .pro lo siguiente: QT += opengl
+  
+## Compilar
+Pues haz qmake-qt5 y make tonto
 
